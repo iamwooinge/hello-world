@@ -35,7 +35,7 @@
    <h1> I love you !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</h1>
    <p>Ansible-playbook command test again and again!!!!!!!! ansible so useful</p>
    <p>I want to buy super notebook</p>
-   <p>i finished to create CI/CD Pipeline ^0^!!!!!!</p>
+   <p>i finished to create CI/CD Pipeline</p>
 
   
 </form>
